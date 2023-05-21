@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Pawan Wadhwani"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "I am Pawan Wadhwani, I graduated last year from SRM Institute of Science and Technology with a Bachelors in Technology in Computer Science with a specialisation in Artificial Intelligence and a minor degree in Robotics."
+  bio    : "Computer Science graduate from SRM Institute of Science and Technology with a specialisation in Artificial Intelligence and a minor in Robotics."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
@@ -121,6 +121,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
