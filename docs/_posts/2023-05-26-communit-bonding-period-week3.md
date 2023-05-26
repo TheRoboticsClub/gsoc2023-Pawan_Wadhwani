@@ -30,11 +30,6 @@ In the weekly meet on 19th May, Pedro suggested to focus on drone exercise migra
 * [https://github.com/JdeRobot/drones/pull/188](https://github.com/JdeRobot/drones/pull/188)
 
 
-
-I also Beta Tested the Humble RADI and reported the issues faced and suggestions to mentors.
-
-Along with this GSoC organisers held a half day GSoC contributors summit on May 17th, in which previous GSoC students and mentors, who are now working as Full time professionals gave talks on how to have a successful GSoC project, common mistakes made and ways to avoid them. This was very inspiring for the attendees.
-
 ## Plan for next week
 
 <!-- * Take a look at PX4 Autopilot for ROS2. -->
