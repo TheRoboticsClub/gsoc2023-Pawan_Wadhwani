@@ -35,4 +35,4 @@ This week was focused on Creation of the new drone interface that uses Aerostack
 ## Plan for next week
 
 * Creation of drone interface
-* Finish migration of Rescue People exercise
+* Continue migration of Rescue People exercise
